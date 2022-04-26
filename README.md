@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julfinch
 - 👀 I’m interested in Front-End Development languages.
-- 🌱 I’m currently learning Javascript and its frameworks like REACT.
+- 🌱 I’m currently learning Javascript and one of its library, REACT.
 - 💞️ I’m looking to collaborate on creating exciting projects.
 - 📫 You can reach me thru Twitter: https://www.twitter.com/julfinch
 
