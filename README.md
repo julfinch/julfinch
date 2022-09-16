@@ -28,10 +28,8 @@ React Developer
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials
+<p align="left">
                           
                       <a href="https://www.github.com/julfinch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
